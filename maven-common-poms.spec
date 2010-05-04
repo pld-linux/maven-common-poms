@@ -6,7 +6,7 @@ Release:	0.1
 License:	Apache v2.0
 Group:		Development/Languages/Java
 URL:		http://jpackage.org/
-Source0:	%{name}.tar.gz
+Source0:	http://execve.pl/PLD/%{name}.tar.gz
 # Source0-md5:	6b6b9f1b2fcf590d2b82a59bda2f7b6e
 Source1:	%{name}-depmap.xml
 BuildRequires:	jpackage-utils >= 0:1.7.4
